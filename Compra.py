@@ -11,8 +11,8 @@ import os
 from pathlib import Path
 import keyboard
 
-API_KEY = "PKVQD5SRTSHE2UJ83O6K"
-API_SECRET = "RHXaq02BiUfOziSvj1KbIhVGAqCFZPosGkMmwW91"
+API_KEY = "xxxxxxxxxxxxxxx"
+API_SECRET = "xxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 APCA_API_BASE_URL = "https://paper-api.alpaca.markets"
 
 
